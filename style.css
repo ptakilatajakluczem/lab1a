@@ -2,7 +2,7 @@ body {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	color: #F1F1F1;
-	background: #000 url(../images/wood_bg.jpg);
+	background: #000 url(wood_bg.jpg);
 	text-align: center;
 	margin: 0;
 }
@@ -56,7 +56,7 @@ a:hover {
 	width: 900px;
 	height: 50px;
 	float: left;
-	background: url(../bg_menu.png) no-repeat;
+	background: url(bg_menu.png) no-repeat;
 }
 
 #menu ul {
@@ -86,18 +86,18 @@ a:hover {
 }
 
 .active_tab {
-	background: #16110b url(../bg_menu_active.png) no-repeat right;
+	background: #16110b url(bg_menu_active.png) no-repeat right;
 	font-weight: bold;
 }
 
 #search_top {
 	float: right;
 	margin-top: 55px;
-	background: url(../bg_trs.png);
+	background: url(bg_trs.png);
 }
 
 #search_top input {
-	background: url(../search_ico.png) no-repeat right;
+	background: url(search_ico.png) no-repeat right;
 	border: 1px solid #333;
 	padding: 8px;
 	color: #FFF;
@@ -107,7 +107,7 @@ a:hover {
 	float: left;
 	width: 900px;
 	height: 220px;
-	background: url(../bg_header.png) repeat-x;
+	background: url(bg_header.png) repeat-x;
 }
 
 #title_head {
@@ -173,7 +173,7 @@ a:hover {
 	margin-top: 30px;
 	margin-left: 30px;
 	padding: 5px;
-	background: url(../bg_fp.png) no-repeat;
+	background: url(bg_fp.png) no-repeat;
 	text-align: center;
 }
 
@@ -224,7 +224,7 @@ h2 {
 	width: 250px;
 	padding: 5px;
 	margin-right: -10px;
-	background: url(../bg_trs.png);
+	background: url(bg_trs.png);
 }
 
 #box_link span {
